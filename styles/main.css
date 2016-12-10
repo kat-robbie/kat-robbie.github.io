@@ -1,8 +1,33 @@
+element.style {
+}
+
 body {
-  background:#98afd6;
-  font-family: arial
- }
+  font-family: inherit;
+  font-variant: normal;
+  font-size: 30px;
+  padding: 10px;
+  text-align:center;
+  color: #3a3112;
+  background-color: #E1E0BB;
+
+
+}
+ <body style="background-image:url(pattern.gif)">
+
 
  h1 {
-   color: navy;
+   color: #72cc45;
+   font-family: sans-serif;
+   font-variant: small-caps;
+
+ }
+
+
+ p {
+   text-align: left;
+   font-size: 20px;
+   background-color: #A8A438;
+   padding: 20px;
+   font-family:sans-serif;
+
  }
