@@ -1,6 +1,8 @@
-body  {
-    background-image: url("kat-robbie.github.io/images/pattern.gif");
-    background-color: #cccccc;
+body {
+    background: url("kat-robbie.github.io/images/pattern.gif");
+    background-size: 80px 60px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
 }
 
 header {
@@ -14,7 +16,7 @@ header {
     margin-left: 200px;
 }
 nav {
-  background-color: red;
+  background-color: blue;
   color: green;
   padding: 15px;
   text-align: center;
