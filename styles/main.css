@@ -1,0 +1,50 @@
+body {
+    background-image:url('https://kat-robbie.github.io/pattern.gif');
+    background-position: center;
+    background-size: 50px 30px;
+}
+
+header {
+    background-color: #9933cc;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+nav {
+  background-color: blue;
+  color: green;
+  padding: 15px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+aside {
+    background-color: #33b5e5;
+    padding: 15px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+footer {
+    background-color: #0099cc;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
