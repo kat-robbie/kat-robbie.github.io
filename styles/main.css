@@ -1,49 +1,61 @@
 body {
-    background: url("kat-robbie.github.io/images/pattern.gif");
-    background-size: 80px 60px;
+    background: url("https://kat-robbie.github.io/images/pattern.gif");
+    background-size: 50px 30px;
 }
 
 header {
-    background-color: purple;
-    color: #ffffff;
-    padding: 15px;
+    background-color: #a8a438;
+    color: #383B16;
+    padding: 5px;
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-right: 200px;
     margin-left: 200px;
+    border-color: #383B16;
+    border-style: solid;
+    border-width: 10px;
 }
 nav {
-  background-color: navy;
-  color: green;
+  background-color: #FFFFFF;
+  color: #383B16;
   padding: 15px;
-  text-align: center;
+  text-align: right;
   margin-top: 30px;
   margin-bottom: 30px;
   margin-right: 200px;
   margin-left: 200px;
+  border-color: #383B16;;
+  border-style: solid;
+  border-width: 5px;
 }
 
 aside {
-    background-color: #33b5e5;
+    background-color: #F1F2EF;
     padding: 15px;
-    color: #ffffff;
-    text-align: center;
+    color: #383B16;
+    text-align: left;
     font-size: 14px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     margin-top: 30px;
     margin-bottom: 30px;
     margin-right: 200px;
     margin-left: 200px;
+    border-color: #383B16;;
+    border-style: solid;
+    border-width: 5px;
 }
 footer {
-    background-color: #0099cc;
+    background-color: white;
     color: #ffffff;
     text-align: center;
     font-size: 12px;
-    padding: 15px;
+    padding: 5px;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-right: 200px;
     margin-left: 200px;
+    border-color: #383B16;;
+    border-style: solid;
+    border-width: 5px;
 }
