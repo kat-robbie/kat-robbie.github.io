@@ -6,6 +6,7 @@ body {
 header {
     background-color: #a8a438;
     color: #421A09;
+    font-weight: bold;
     padding: 5px;
     text-align: center;
     margin-top: 30px;
@@ -47,7 +48,8 @@ aside {
 }
 footer {
     background-color: white;
-    color: #ffffff;
+    color: #421A09;
+    font-weight: bold;
     text-align: center;
     font-size: 16px;
     padding: 5px;
